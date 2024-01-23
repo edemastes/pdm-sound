@@ -20,7 +20,7 @@ function keyPressed() {
 
 function setup() {
   createCanvas(1800, 1600);
-  
+   text('Press Q or W for sound!', 50, 50);
 }
 
 function draw() {
