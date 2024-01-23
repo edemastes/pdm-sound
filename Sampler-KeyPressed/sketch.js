@@ -25,8 +25,6 @@ function setup() {
 }
 
 function draw() {
-
-
   console.log (keyCode);
 }
   
