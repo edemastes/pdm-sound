@@ -10,6 +10,6 @@ Resources:
 - <a href = "https://www.youtube.com/@TheCodingTrain"> The Coding Train tutorials </a>
 
 Pages:
-- <a href = "https://github.com/edemastes/PDM-Sound"> PDM Sound Github Repo</a>
-- <a href = "https://edemastes.github.io/PDM-Sound/Sampler-KeyPressed/"> Sampler with Q and W Key Press</a>
-- <a href = "https://edemastes.github.io/PDM-Sound/Sampler-Buttons/"> Sampler with Buttons </a>
+- <a href = "https://github.com/edemastes/pdm-sound"> PDM Sound Github Repo</a>
+- <a href = "https://edemastes.github.io/pdm-sound/sampler-keypressed/"> Sampler with Q and W Key Press</a>
+- <a href = "https://edemastes.github.io/pdm-sound/sampler-buttons/"> Sampler with Buttons </a>
