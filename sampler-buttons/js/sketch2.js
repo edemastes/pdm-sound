@@ -28,8 +28,8 @@ function setup() {
 
 
 function draw() {
-  background(240, 150, 100);
-  text("Press buttons for sound!", 100, 300);
+  background(240, 50, 100);
+  text("Press buttons for sound!", 100, 50);
 }
 
 
