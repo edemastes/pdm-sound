@@ -7,3 +7,7 @@ Resources: <br>
 - <a href = "https://pdm.lsupathways.org/3_audio/">Putting tone.js into p5</a> <br>
 - <a href = "https://github.com/processing">GitHub info for p5</a> <br>
 - <a href = "https://github.com/Tonejs">GitHub info for tone.js</a>
+
+Pages:
+- <a href = "https://edemastes.github.io/PDM-Sound/Sampler-KeyPressed/"> Sampler with Q and W Key Press</a>
+- <a href = "https://edemastes.github.io/PDM-Sound/Sampler-Buttons/"> Sampler with Buttons </a>
