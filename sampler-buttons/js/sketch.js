@@ -23,7 +23,9 @@ function setup() {
 
 function draw() {
   background(239, 169, 218);
-  text("Press buttons for sound!", 150, 300);
+  textSize(16);
+  textAlign(CENTER, TOP);
+  text("Press buttons for sound!");
 }
 
 
