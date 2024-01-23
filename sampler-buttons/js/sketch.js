@@ -1,6 +1,3 @@
-//Scott Nelson 2023 Erin Demastes 2024
-
-// let previously - for something that wont change, use const
 
 let sounds = new Tone.Players({
   'popcorn': "sounds/popcornMaker.mp3",
@@ -10,13 +7,11 @@ let sounds = new Tone.Players({
 let button1;
 let button2;
 
-
 function setup() {
   createCanvas(400, 400);
   sounds.toDestination();
  
-
-  button1 = createButton('Crazy Popcorn Maker');
+  button1 = createButton('Weird Popcorn Maker');
   button1.position((width / 2)-60, (height /2)-12);
   button1.mousePressed(() =>playSound("popcorn"));
   
@@ -27,8 +22,8 @@ function setup() {
 }
 
 function draw() {
-  background(100, 50, 100);
-  text("Press buttons for sound!", 50, 300);
+  background(239, 169, 218);
+  text("Press buttons for sound!", 150, 300);
 }
 
 
