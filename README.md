@@ -1,4 +1,4 @@
-# Programming-Digital-Media
+# Programming-Digital-Media Sound Unit
 
 Resources: <br>
 Installing node / local server https://github.com/processing/p5.js/wiki/Local-server#node-http-server <br>
