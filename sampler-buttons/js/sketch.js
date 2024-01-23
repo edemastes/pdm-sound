@@ -1,6 +1,6 @@
 
 let sounds = new Tone.Players({
-  'popcorn': "sounds/popcornMaker.mp3",
+'popcorn': "sounds/popcornMaker.mp3",
  'water': "sounds/waterTrickle.mp3"
 });
 
