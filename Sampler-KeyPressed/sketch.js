@@ -20,12 +20,13 @@ function keyPressed() {
 
 function setup() {
   createCanvas(400, 400);
-  background(255, 204, 0);
-  text("Press Q or W for sound!", 50, 50);
+  
 }
 
 function draw() {
   background(220);
+  background(255, 204, 0);
+  text("Press Q or W for sound!", 50, 50);
   console.log (keyCode);
 }
   
