@@ -1,9 +1,9 @@
 # Programming Digital Media Sound Unit
 
 Resources: <br>
-p5 web editor https://editor.p5js.org/ <br>
-Installing node / local server https://github.com/processing/p5.js/wiki/Local-server#node-http-server <br>
-Installing tone.js https://tonejs.github.io/ or CDN <br>
-Putting tone.js into p5 https://pdm.lsupathways.org/3_audio/ <br>
-GitHub info for p5 https://github.com/processing <br>
-GitHub info for tone.js https://github.com/Tonejs
+- <a href = "https://editor.p5js.org/">Web editor for p5</a> <br>
+- <a href = "https://github.com/processing/p5.js/wiki/Local-server#node-http-server">Installing Node / local server</a><br>
+- <a href = "https://tonejs.github.io/">Installing tone.js locally</a> or with CDN <a href = "https://cdnjs.com/">https://cdnjs.com</a><br>
+- <a href = "https://pdm.lsupathways.org/3_audio/">Putting tone.js into p5</a> <br>
+- <a href = "https://github.com/processing">GitHub info for p5</a> <br>
+- <a href = "https://github.com/Tonejs">GitHub info for tone.js</a>
