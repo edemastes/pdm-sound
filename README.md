@@ -11,5 +11,5 @@ Resources:
 
 Pages:
 - <a href = "https://github.com/edemastes/pdm-sound"> PDM Sound Github Repo</a>
-- <a href = "https://edemastes.github.io/pdm-sound/sampler-keypressed/"> Sampler with Q and W Key Press</a>
-- <a href = "https://edemastes.github.io/pdm-sound/sampler-buttons/"> Sampler with Buttons </a>
+- <a href = "https://edemastes.github.io/pdm-sound/Sampler-KeyPressed/"> Sampler with Q and W Key Press</a>
+- <a href = "https://edemastes.github.io/pdm-sound/Sampler-Buttons/"> Sampler with Buttons </a>
