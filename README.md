@@ -11,10 +11,11 @@ Resources:
 - <a href = "https://github.com/processing">GitHub info for p5</a> 
 - <a href = "https://editor.p5js.org/">Web editor for p5</a> <br><br>
 
-Slides:
+Slides & Course Materials:
 - <a href = "https://edemastes.github.io/pdm-sound/web-audio-intro.pdf"> Intro to Web Audio </a>
 - <a href = "https://edemastes.github.io/pdm-sound/foley-sound-design.pdf"> Foley & Sound Design </a>
-- <a href = "https://edemastes.github.io/pdm-sound/synthesis.pdf"> Intro to Synthesis </a> <br><br>
+- <a href = "https://edemastes.github.io/pdm-sound/synthesis.pdf"> Intro to Synthesis </a>
+- <a href = "https://edemastes.github.io/pdm-sound/piano-keys.jpg"> Piano keyboard reference </a> <br><br>
 
 Example Pages:
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-keypressed/"> Sampler with Q and W key press</a>
