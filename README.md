@@ -7,7 +7,7 @@ Resources:
 - <a href = "https://github.com/processing">GitHub info for p5</a> 
 - <a href = "https://github.com/Tonejs">GitHub info for tone.js</a>
 - <a href = "https://www.youtube.com/@TheCodingTrain"> The Coding Train tutorials </a>
-- <a href = "https://eloquentjavascript.net/"> The Eloquent Javascript eBook </a>
+- <a href = "https://eloquentjavascript.net/"> Eloquent Javascript eBook </a>
 - <a href = "https://editor.p5js.org/">Web editor for p5</a> <br><br>
 
 
