@@ -10,6 +10,9 @@ Resources:
 - <a href = "https://eloquentjavascript.net/"> Eloquent Javascript eBook </a>
 - <a href = "https://editor.p5js.org/">Web editor for p5</a> <br><br>
 
+Slides:
+- <a href = "https://edemastes.github.io/pdm-sound/web-audio-intro.pdf"> Intro to Web Audio </a>
+
 
 Example Pages:
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-keypressed/"> Sampler with Q and W key press</a>
