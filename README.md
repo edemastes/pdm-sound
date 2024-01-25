@@ -12,7 +12,8 @@ Resources:
 
 Slides:
 - <a href = "https://edemastes.github.io/pdm-sound/web-audio-intro.pdf"> Intro to Web Audio </a>
-
+- <a href = "https://edemastes.github.io/pdm-sound/foley-sound-design.pdf"> Foley & Sound Design </a>
+- <a href = "https://edemastes.github.io/pdm-sound/synthesis.pdf"> Intro to Synthesis </a> <br><br>
 
 Example Pages:
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-keypressed/"> Sampler with Q and W key press</a>
