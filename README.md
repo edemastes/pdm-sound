@@ -9,7 +9,10 @@ Resources:
 - <a href = "https://www.youtube.com/@TheCodingTrain"> The Coding Train tutorials </a>
 - <a href = "https://eloquentjavascript.net/"> Eloquent Javascript eBook </a>
 - <a href = "https://github.com/processing">GitHub info for p5</a> 
-- <a href = "https://editor.p5js.org/">Web editor for p5</a> <br><br>
+- <a href = "https://editor.p5js.org/">Web editor for p5</a>
+- <a href = "https://freesound.org/"> freesound.org </a>
+- <a href = "https://sound-effects.bbcrewind.co.uk/?authuser=0"> BBC sound FX archive </a>
+<br><br>
 
 Slides & Course Materials:
 - <a href = "https://edemastes.github.io/pdm-sound/web-audio-intro.pdf"> Intro to Web Audio </a>
