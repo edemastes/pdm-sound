@@ -24,3 +24,4 @@ Example Pages:
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-keypressed/"> Sampler with Q and W key press</a>
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-buttons/"> Sampler with buttons </a>
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-slider/"> Sampler with FX slider </a>
+- <a href = "https://edemastes.github.io/pdm-sound/synth-slider/"> Synth keyboard with pitchbend slider </a>
