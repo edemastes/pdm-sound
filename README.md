@@ -19,3 +19,8 @@ Slides & Course Materials:
 - <a href = "https://edemastes.github.io/pdm-sound/resources/sound-design.pdf"> Foley & Sound Design </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/synthesis.pdf"> Intro to Synthesis </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/piano-keys.jpg"> Piano keyboard reference </a>
+<br><br>
+
+Sound Examples:
+- <a href = "https://edemastes.github.io/pdm-sound/sampler-keypressed"> Sampler with keyboard </a>
+- <a href = "https://edemastes.github.io/pdm-sound/sampler-buttons"> Sampler with buttons and delay </a>
