@@ -24,3 +24,4 @@ Slides & Course Materials:
 Sound Examples:
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-keypressed"> Sampler with keyboard </a>
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-buttons"> Sampler with buttons and delay </a>
+- <a href = "https://edemastes.github.io/pdm-sound/synth-slider"> 8-note polysynth with pitchbend </a>
