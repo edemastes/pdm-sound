@@ -10,7 +10,7 @@ let button1;
 let button2;
 let delaySlider;
 
-sounds.connect (delay);
+sounds.connect(delay);
 delay.toDestination();
 //here we connect our sounds variable that we assigned the soundfiles to our delay
 //then we connect delay to our audio output or "destination"
