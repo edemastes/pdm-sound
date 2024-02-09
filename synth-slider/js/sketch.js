@@ -34,14 +34,14 @@ function draw() {
   text("Play A through K and bend pitch with slider.", 75, 150)
 }
 
+let playNotes = notes[key]; // assign notes variable to keys when played
+
 function keyPressed() {
-  let toPlay = notes[key]; // assign notes variable to keys when played
-  synth.triggerAttack(toPlay);
+  synth.triggerAttack(playNotes);
 // separated attack and release so keyboard press controls this
 }
 
 function keyReleased() {
-  let toPlay = notes[key];
-  synth.triggerRelease(toPlay, '+0.03'); 
+  synth.triggerRelease(playNotes, '+0.03'); 
   // added time to release to reduce popping sound
 }
