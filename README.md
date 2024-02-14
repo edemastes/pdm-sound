@@ -26,3 +26,4 @@ Sound Examples:
 - <a href = "https://edemastes.github.io/pdm-sound/sampler-buttons"> Sampler with buttons and delay </a>
 - <a href = "https://edemastes.github.io/pdm-sound/synth-slider"> 8-note polysynth with pitchbend </a>
 - <a href = "https://edemastes.github.io/pdm-sound/synth-slider-fx"> 8-note polysynth with ping pong & feedback </a>
+- <a href = "https://edemastes.github.io/pdm-sound/synth-arpeggiator"> 8-note polysynth with arpeggiator </a>
