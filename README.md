@@ -8,8 +8,6 @@ Resources:
 - <a href = "https://p5js.org/reference/"> p5 help files <a>
 - <a href = "https://www.youtube.com/@TheCodingTrain"> The Coding Train tutorials </a>
 - <a href = "https://eloquentjavascript.net/"> Eloquent Javascript eBook </a>
-- <a href = "https://github.com/processing">GitHub info for p5</a> 
-- <a href = "https://editor.p5js.org/">Web editor for p5</a>
 - <a href = "https://freesound.org/"> freesound.org </a>
 - <a href = "https://sound-effects.bbcrewind.co.uk/?authuser=0"> BBC sound FX archive </a>
 <br><br>
@@ -19,6 +17,12 @@ Slides & Course Materials:
 - <a href = "https://edemastes.github.io/pdm-sound/resources/sound-design.pdf"> Foley & Sound Design </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/synthesis.pdf"> Intro to Synthesis </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/piano-keys.jpg"> Piano keyboard reference </a>
+<br><br>
+
+Free DAWs (audio editing software):
+- <a href = "https://www.audacityteam.org/"> Audacity download </a>
+- <a href = "https://www.reaper.fm/download.php"> Reaper download </a>
+- <a href = "https://www.ableton.com/en/trial/"> 30-day Ableton trial </a>
 <br><br>
 
 Sound Examples:
