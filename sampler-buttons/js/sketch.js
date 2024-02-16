@@ -15,7 +15,7 @@ delay.toDestination();
 //here we connect our sounds variable that we assigned the soundfiles to our delay
 //then we connect delay to our audio output or "destination"
 
-//here is one way to trigger buttons with empty functions: 
+//here is one way to trigger buttons with inline functions: 
 
 function setup() {
   createCanvas(400, 400);
