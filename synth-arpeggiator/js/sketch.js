@@ -39,16 +39,6 @@ function setup() {
   pitchSlider.mouseMoved (() => {
     bend.pitch = pitchSlider.value ();
   })
-
-  playbackSlider = createSlider (1, 10, 0.01, 1)
-  playbackSlider.position (100, 300)
-  playbackSlider.mouseMoved (() => {
-    pattern1.playbackRate = playbackSlider.value (),
-    pattern2.playbackRate = playbackSlider.value (),
-    pattern3.playbackRate = playbackSlider.value (),
-    pattern4.playbackRate = playbackSlider.value (),
-    pattern5.playbackRate = playbackSlider.value ()
-  })
 }
 
 function draw() {
