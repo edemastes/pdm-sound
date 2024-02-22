@@ -3,7 +3,8 @@
 Resources:
 - <a href = "https://github.com/edemastes/pdm-sound"> PDM Sound Unit respository </a>
 - <a href = "https://tonejs.github.io/">Installing Tone.js locally</a> or with CDN <a href = "https://cdnjs.com/">https://cdnjs.com</a>
-- <a href = "https://pdm.lsupathways.org/3_audio/">Putting Tone.js into p5</a> 
+- <a href = "https://pdm.lsupathways.org/3_audio/">Putting Tone.js into p5</a>
+- <a href = "https://tonejs.github.io/examples/"> Tone.js playable examples</a>
 - <a href = "https://tonejs.github.io/docs/14.7.77/index.html">Tone.js help files </a>
 - <a href = "https://p5js.org/reference/"> p5 help files <a>
 - <a href = "https://www.youtube.com/@TheCodingTrain"> The Coding Train tutorials </a>
