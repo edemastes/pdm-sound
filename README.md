@@ -18,7 +18,7 @@ Slides & Course Materials:
 - <a href = "https://edemastes.github.io/pdm-sound/resources/sound-design.pdf"> Foley & Sound Design </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/synthesis.pdf"> Intro to Synthesis </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/piano-keys.jpg"> Piano keyboard reference </a>
-- <a href = "https://edemastes.github.io/pdm-sound/resources/electronics.jpg"> Intro to Electronics </a>
+- <a href = "https://edemastes.github.io/pdm-sound/resources/electronics.pdf"> Intro to Electronics </a>
 <br><br>
 
 Free DAWs (audio editing software):
