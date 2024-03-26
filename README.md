@@ -1,4 +1,4 @@
-# Programming Digital Media Sound Unit
+# Programming Digital Media Sound & Physical Computing Units
 
 Resources:
 - <a href = "https://github.com/edemastes/pdm-sound"> PDM sound unit respository </a>
@@ -12,13 +12,16 @@ Resources:
 - <a href = "https://freesound.org/"> freesound.org </a>
 - <a href = "https://sound-effects.bbcrewind.co.uk/?authuser=0"> BBC sound FX archive </a>
 <br><br>
+- <a href = "https://www.arduino.cc/en/software"> Arduino download </a>
+- <a href = "https://docs.arduino.cc/"> Arduino documentation </a>
+<br><br>
 
 Slides & Course Materials:
 - <a href = "https://edemastes.github.io/pdm-sound/resources/sound-basics.pdf"> Intro to Sound </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/sound-design.pdf"> Foley & Sound Design </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/synthesis.pdf"> Intro to Synthesis </a>
 - <a href = "https://edemastes.github.io/pdm-sound/resources/piano-keys.jpg"> Piano keyboard reference </a>
-- <a href = "https://edemastes.github.io/pdm-sound/resources/electronics.pdf"> Intro to Electronics </a>
+- <a href = "https://edemastes.github.io/pdm-sound/resources/electronics.pdf"> Intro to Electronics & Arduino</a>
 <br><br>
 
 Free DAWs (audio editing software):
