@@ -13,7 +13,7 @@ Resources:
 - <a href = "https://sound-effects.bbcrewind.co.uk/?authuser=0"> BBC sound FX archive </a>
 <br><br>
 - <a href = "https://www.arduino.cc/en/software"> Arduino download </a>
-- <a href = "https://docs.arduino.cc/"> Arduino documentation </a>
+- <a href = "https://docs.arduino.cc/built-in-examples/"> Arduino documentation </a>
 <br><br>
 
 Slides & Course Materials:
