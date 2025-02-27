@@ -8,7 +8,7 @@ let sine = new Tone.Synth({
       attack: 0.01,
       decay: 0.1,
       sustain: 0.1,
-      release: 0.05,
+      release: 0.01,
     }
   }).toDestination();
   
@@ -20,7 +20,7 @@ let square = new Tone.Synth({
     attack: 0.01,
     decay: 0.1,
     sustain: 0.1,
-    release: 0.05,
+    release: 0.01,
   }
 }).toDestination(); 
 
@@ -32,7 +32,7 @@ let triangle = new Tone.Synth({
     attack: 0.01,
     decay: 0.1,
     sustain: 0.1,
-    release: 0.05,
+    release: 0.01,
   }
 }).toDestination();
 
@@ -44,16 +44,16 @@ let saw = new Tone.Synth({
     attack: 0.01,
     decay: 0.1,
     sustain: 0.1,
-    release: 0.05,
+    release: 0.01,
   }
 }).toDestination();
 
 
 function keyPressed() { 
-if (key === 'q'){sine.triggerAttackRelease("c5", 1);
-  } else if (key === 'w'){square.triggerAttackRelease("c5", 1); 
-  } else if (key === 'e'){triangle.triggerAttackRelease("c5", 1);
-  } else if (key === 'r'){saw.triggerAttackRelease("c5", 1);
+if (key === 'q'){sine.triggerAttackRelease("c4", 1);
+  } else if (key === 'w'){square.triggerAttackRelease("c4", 1); 
+  } else if (key === 'e'){triangle.triggerAttackRelease("c4", 1);
+  } else if (key === 'r'){saw.triggerAttackRelease("c4", 1);
   }   
 }
 
