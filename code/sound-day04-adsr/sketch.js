@@ -7,7 +7,7 @@ let sine = new Tone.Synth({
     envelope : {
       attack: 0.01,
       decay: 0.1,
-      sustain: 0.05,
+      sustain: 0.1,
       release: 0.01,
     }
   }).toDestination();
@@ -19,7 +19,7 @@ let square = new Tone.Synth({
   envelope : {
     attack: 0.01,
     decay: 0.1,
-    sustain: 0.09,
+    sustain: 0.1,
     release: 0.01,
   }
 }).toDestination(); 
@@ -29,10 +29,10 @@ let triangle = new Tone.Synth({
     type: "triangle"
   },
   envelope : {
-    attack: 0.1,
+    attack: 0.01,
     decay: 0.1,
     sustain: 0.1,
-    release: 0.1,
+    release: 0.01,
   }
 }).toDestination();
 
@@ -41,10 +41,10 @@ let saw = new Tone.Synth({
     type: "sawtooth"
   },
   envelope : {
-    attack: 0.1,
+    attack: 0.01,
     decay: 0.1,
     sustain: 0.1,
-    release: 0.1,
+    release: 0.01,
   }
 }).toDestination();
 
