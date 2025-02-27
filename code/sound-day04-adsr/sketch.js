@@ -50,10 +50,10 @@ let saw = new Tone.Synth({
 
 
 function keyPressed() { 
-if (key === 'q'){sine.triggerAttackRelease("c4", 1);
-  } else if (key === 'w'){square.triggerAttackRelease("c4", 1); 
-  } else if (key === 'e'){triangle.triggerAttackRelease("c4", 1);
-  } else if (key === 'r'){saw.triggerAttackRelease("c4", 1);
+if (key === 'q'){sine.triggerAttackRelease("c5", 1);
+  } else if (key === 'w'){square.triggerAttackRelease("c5", 1); 
+  } else if (key === 'e'){triangle.triggerAttackRelease("c5", 1);
+  } else if (key === 'r'){saw.triggerAttackRelease("c5", 1);
   }   
 }
 
